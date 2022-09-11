@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/quintin156/ping-coming-soon-page]
+- Live Site URL: [https://quintin156.github.io/ping-coming-soon-page/]
 ### Built with
 
 - Semantic HTML5 markup
